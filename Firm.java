@@ -4,6 +4,7 @@
 //  Demonstrates polymorphism via inheritance.
 //********************************************************************
 
+//commit 1.5(work form home = commit 2)
 public class Firm
 {
    //-----------------------------------------------------------------
